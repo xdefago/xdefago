@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi there 👋
+
+- 🔭 I’m currently working on fault-tolerant distributed systems and cooperative mobile robots as my main professional research activities. I have some side projects that are only indirectly related to my research, such as a Rust crate for computing confidence intervals: `stats-ci`.
+- 🔭 I have some personal projects on the side, mostly related to embedded systems and home automation, such as a weather clock.
+- 😄 Pronouns: he/his
 
 <!--
 **xdefago/xdefago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
